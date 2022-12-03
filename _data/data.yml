@@ -62,8 +62,9 @@ education:
     info:
       - degree: Computer Science and Applied Mathematics Double Major
         university: University of Central Washington
-        time: Sept. 2022 - Present
+        time: Spring 2021 - Present
         details: |
+          I've had the great pleasure to be a Central Washington Wildcat to continue my undergraduate studies.
             - Quarterly Dean's List Honor Roll
             - Computer Science Club President
             - Student Government Services and Activities Committee Vice President
@@ -87,9 +88,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Full-Stack Software Engineer
+        time: Oct. 2018 - Jan. 2020
+        company: Fully Toasted, Toronto CA (Remote)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -98,9 +99,31 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Web Application Engineer
+        time: Jan. 2017 - Jan. 2020
+        company: Upwork.com, Dallas TX
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: Junior Software Developer
+        time: Feb. 2017 - Oct. 2017
+        company: CES Solutions, Dallas TX
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: Server Administrator
+        time: Nov. 2015 - Oct. 2016
+        company: Re-Render Reality, Toronto CA (Remote)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
