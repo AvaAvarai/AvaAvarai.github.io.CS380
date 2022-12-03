@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Alice Williams
-    tagline: Computer Science and Applied Mathematics Double Major
+    tagline: Undergrad Student and Teaching Assistant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: alice.williams.tech[AT]gmail.com
+    email: alice.williams.tech@gmail.com
     phone: 
     timezone: America/Pacific Timezone
     citizenship:
@@ -62,9 +62,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Pursuing a double major in Computer Science and Applied Mathematics
+      - degree: Computer Science and Applied Mathematics Double Major
         university: University of Central Washington
-        time: 2021 - current
+        time: 2021 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +76,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Computer Science Teaching Assistant
+        time: 2022 - Present
+        company: Central Washington University, Ellensburg WA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
