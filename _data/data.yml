@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: alice.williams.tech@gmail.com
+    email: alice.williams.tech@gmail
     phone: 
     timezone: America/Pacific Timezone
     citizenship:
@@ -47,7 +47,7 @@ sidebar:
         - item: Micro-Electronics
           link:
 
-        - item: 
+        - item: Writing Poetry
           link:
 
 career-profile:
@@ -56,19 +56,14 @@ career-profile:
       Salutations, I am a long-time programmer, former freelance developer, website developer, and server administrator.
       I have worked a large number of positions prior to my career in technology which have prepared me for team leadership,
       teamwork cultivation, customer service, asset auditing, and business operations. Right now I am a teaching assistant with
-      the university I attend, where I have the pleasure to teach a plethora of computer science application and theory concepts.
+      the university I attend, where I have the pleasure to teach a plethora of computer science application and theory.
 education:
     title: Education
     info:
       - degree: Computer Science and Applied Mathematics Double Major
         university: University of Central Washington
-        time: 2021 - Present
+        time: Sept. 2022 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
             - Quarterly Dean's List Honor Roll
             - Computer Science Club President
             - Student Government Services and Activities Committee Vice President
