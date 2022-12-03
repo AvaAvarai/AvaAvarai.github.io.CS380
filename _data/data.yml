@@ -60,7 +60,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Computer Science and Applied Mathematics Double Major
+      - degree: Computer Science/Applied Mathematics Double Major
         university: University of Central Washington
         time: Spring 2021 - Present
         details: |
@@ -78,60 +78,41 @@ experiences:
         company: Central Washington University, Ellensburg WA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          adipiscing elit.
+            - Student and peer Tutoring in computer science and related concepts
+            - Computer Lab Maintainance for computer science undergraduate students
       - role: Full-Stack Software Engineer
         time: Oct. 2018 - Jan. 2020
         company: Fully Toasted, Toronto CA (Remote)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          adipiscing elit.
+            - Designed and implemented four pieces of SaaS software solutions: integrated application processing, system backup solution, ticketing system, and multi-server monitoring.
+            - Automated service to hundreds of systems within four separate multi-server online infrastructures.
       - role: Web Application Engineer
         time: Jan. 2017 - Jan. 2020
         company: Upwork.com, Dallas TX
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          adipiscing elit.
+            - Application Deployments: Deployed fifteen web application projects that involved the whole project life-cycle.
+            - Business Duties: Facilitated business rapport with clientele from contract proposal to invoice.
       - role: Junior Software Developer
         time: Feb. 2017 - Oct. 2017
         company: CES Solutions, Dallas TX
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          adipiscing elit.
+            - Office Automation: Designed and developed an easy-access office automation platform while shadowing senior.
+            - System Integration: Integrated with current systems through REST API meshing and Google Docs APIs.
       - role: Server Administrator
         time: Nov. 2015 - Oct. 2016
         company: Re-Render Reality, Toronto CA (Remote)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          adipiscing elit.
+            - Server Administration: Configured and maintained cloud hosted servers for an online server management business.
+            - Service Offered: Provided data backup solutions, logging services, and maintenance to online gaming platforms.
 projects:
     title: Projects
     intro: >
@@ -139,88 +120,40 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Placeholder
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Bash
+        level: 75%
 
-      - name: Ruby on Rails
+      - name: HTML/CSS
+        level: 90%
+        
+      - name: PHP
+        level: 80%
+
+      - name: JavaScript/TypeScript
+        level: 75%
+      
+      - name: Go
+        level: 65%
+        
+      - name: x86-64 Assembly
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
