@@ -23,14 +23,5 @@ sass:
 
 # Build settings
 compress-site: yes
-
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
-  clippings: all
-  ignore:
-    envs: development
 
-# Development Settings
-port: 4000
-host: 0.0.0.0
-safe: false
