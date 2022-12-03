@@ -41,10 +41,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 
+        - item: Political Activism
           link:
 
-        - item: 
+        - item: Micro-Electronics
           link:
 
         - item: 
@@ -53,12 +53,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Salutations, I am a long-time programmer, former freelance developer, website developer, and server administrator.
+      I have worked a large number of positions prior to my career in technology which have prepared me for team leadership,
+      teamwork cultivation, customer service, asset auditing, and business operations. Right now I am a teaching assistant with
+      the university I attend, where I have the pleasure to teach a plethora of computer science application and theory concepts.
 education:
     title: Education
     info:
@@ -71,8 +69,11 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Quarterly Dean's List Honor Roll
+            - Computer Science Club President
+            - Student Government Services and Activities Committee Vice President
+            - CyberSecurity Education Researcher
+            - Ethical Hacking Club Member
 experiences:
     title: Experiences
     info:
