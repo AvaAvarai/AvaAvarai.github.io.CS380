@@ -117,7 +117,7 @@ experiences:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset: languages
+    toolset:
       - name: Java
         level: 90%
 
