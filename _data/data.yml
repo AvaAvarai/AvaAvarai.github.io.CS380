@@ -60,8 +60,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Computer Science/Applied Mathematics Double Major
-      
+      - degree: Computer Science/Applied Mathematics Double Major<br>
         university: University of Central Washington
         time: Spring 2021 - Present
         details: |
