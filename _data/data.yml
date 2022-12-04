@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alice Williams
-    tagline: Undergrad Student and Teaching Assistant
+    tagline: Undergrad Student & Teaching Assistant
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -77,40 +77,35 @@ experiences:
         time: 2022 - Present
         company: Central Washington University, Ellensburg WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
+          Providing tutoring services and course material review to fellow undergraduate students.
             - Student and peer Tutoring in computer science and related concepts
             - Computer Lab Maintainance for computer science undergraduate students
       - role: Full-Stack Software Engineer
         time: Oct. 2018 - Jan. 2020
         company: Fully Toasted, Toronto CA (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
+          Led design and development of four major software solutions for a cloud server management business.
             - Designed and implemented four pieces of SaaS software solutions: integrated application processing, system backup solution, ticketing system, and multi-server monitoring.
             - Automated service to hundreds of systems within four separate multi-server online infrastructures.
       - role: Web Application Engineer
         time: Jan. 2017 - Jan. 2020
         company: Upwork.com, Dallas TX
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
+          Practiced freelance development through fifteen web application projects and a handful of similar web projects.
             - Application Deployments: Deployed fifteen web application projects that involved the whole project life-cycle.
             - Business Duties: Facilitated business rapport with clientele from contract proposal to invoice.
       - role: Junior Software Developer
         time: Feb. 2017 - Oct. 2017
         company: CES Solutions, Dallas TX
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
+          Directed a contract project from proposal to deployment with a shadowing senior integrating with the employers systems.
             - Office Automation: Designed and developed an easy-access office automation platform while shadowing senior.
             - System Integration: Integrated with current systems through REST API meshing and Google Docs APIs.
       - role: Server Administrator
         time: Nov. 2015 - Oct. 2016
         company: Re-Render Reality, Toronto CA (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
+          Set-up various servers and maintained up to three servers at a time in primarily RedHat and enterprise Linux.
             - Server Administration: Configured and maintained cloud hosted servers for an online server management business.
             - Service Offered: Provided data backup solutions, logging services, and maintenance to online gaming platforms.
 
