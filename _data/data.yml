@@ -113,23 +113,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Git
+        level: 95%
+        
+      - name: Docker
+        level: 65%
+        
+      - name: Make
+        level: 90%
+        
+      - name: Linux
+        level: 90%
+    
       - name: Java
         level: 90%
 
       - name: C
-        level: 75%
-
-      - name: Python
         level: 80%
 
-      - name: Bash
+      - name: Python
         level: 75%
+
+      - name: Bash
+        level: 80%
 
       - name: HTML/CSS
         level: 90%
         
       - name: PHP
-        level: 80%
+        level: 75%
 
       - name: JavaScript/TypeScript
         level: 75%
@@ -138,7 +150,7 @@ skills:
         level: 65%
         
       - name: x86-64 Assembly
-        level: 85%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
